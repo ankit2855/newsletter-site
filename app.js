@@ -78,6 +78,3 @@ app.listen(process.env.PORT||3000,function(){
 });
 
 
-// efeac9cfd9 list-id
-// 6781d0a5b39fe162c1c38e78bc741b2d-us19 api-key(expired)
-// 6d3066eb76a0e9657bf2274cf63f16b8-us19 new api-key
